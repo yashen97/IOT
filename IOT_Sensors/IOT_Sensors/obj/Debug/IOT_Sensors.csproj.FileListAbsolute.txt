@@ -1,0 +1,54 @@
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.App.config
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csprojResolveAssemblyReference.cache
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.Properties.Resources.resources
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.GenerateResource.Cache
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.CoreCompileInputs.cache
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.exe.config
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.exe
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.pdb
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\FireSharp.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\RestSharp.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\RestSharp.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.exe
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.pdb
+C:\Users\Tharusha Kudagala\Documents\@Playground\Visual Studio 2017\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.OpenCon.resources
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.exe.config
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.exe
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\IOT_Sensors.pdb
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\FireSharp.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Newtonsoft.Json.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\RestSharp.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Extensions.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Primitives.dll
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\Newtonsoft.Json.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\RestSharp.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Extensions.xml
+D:\IOT_Sensors\IOT_Sensors\bin\Debug\System.Net.Http.Primitives.xml
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.App.config
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csprojAssemblyReference.cache
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.OpenCon.resources
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.Properties.Resources.resources
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.GenerateResource.cache
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.csproj.CopyComplete
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.exe
+D:\IOT_Sensors\IOT_Sensors\obj\Debug\IOT_Sensors.pdb

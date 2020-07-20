@@ -1,0 +1,489 @@
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\NodeMCU.exe.config
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\NodeMCU.exe
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\NodeMCU.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\netstandard.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.AppContext.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ComponentModel.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Console.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Data.Common.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Globalization.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.Compression.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.Pipes.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Linq.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Http.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Ping.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Requests.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Security.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.Sockets.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ObjectModel.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Reflection.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Resources.Reader.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Resources.Writer.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Claims.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.Principal.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Security.SecureString.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Text.Encoding.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.Thread.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Threading.Timer.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.ValueTuple.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.XPath.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\FireSharp.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Core.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.LongRunning.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Protobuf.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Auth.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\RestSharp.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Interactive.Async.dll
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Apis.Core.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.LongRunning.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.LongRunning.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Google.Protobuf.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Auth.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Auth.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\RestSharp.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\System.Interactive.Async.xml
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.csprojResolveAssemblyReference.cache
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.csproj.NodeMCU.exe.config
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.Form1.resources
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.Properties.Resources.resources
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.csproj.GenerateResource.Cache
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.csproj.CoreCompileInputs.cache
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.exe
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\obj\Debug\NodeMCU.pdb
+C:\Users\Tharusha Kudagala\source\repos\NodeMCU\NodeMCU\bin\Debug\ply-iot.json
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\ply-iot.json
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\NodeMCU.exe.config
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\NodeMCU.exe
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\NodeMCU.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\netstandard.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.AppContext.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ComponentModel.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Console.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Data.Common.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Globalization.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.Compression.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.Pipes.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Linq.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Http.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Ping.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Requests.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Security.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.Sockets.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ObjectModel.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Reflection.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Resources.Reader.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Resources.Writer.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Claims.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.Principal.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Security.SecureString.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Text.Encoding.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.Thread.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Threading.Timer.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.ValueTuple.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.XPath.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\FireSharp.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Core.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.LongRunning.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Protobuf.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Auth.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\RestSharp.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Interactive.Async.dll
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Apis.Core.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.LongRunning.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.LongRunning.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Google.Protobuf.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Auth.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Auth.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\RestSharp.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\bin\Debug\System.Interactive.Async.xml
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.csprojAssemblyReference.cache
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.exe.config
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.Form1.resources
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.Properties.Resources.resources
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.csproj.GenerateResource.cache
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.csproj.CopyComplete
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.exe
+C:\Users\Yashen\Desktop\Tharusha\NodeMCU\obj\Debug\NodeMCU.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\ply-iot.json
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\NodeMCU.exe.config
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\NodeMCU.exe
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\NodeMCU.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\netstandard.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.AppContext.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ComponentModel.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Console.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Data.Common.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Globalization.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.Compression.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.Pipes.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Linq.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Http.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Ping.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Requests.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Security.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.Sockets.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ObjectModel.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Reflection.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Resources.Reader.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Resources.Writer.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Claims.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.Principal.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Security.SecureString.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Text.Encoding.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.Thread.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Threading.Timer.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.ValueTuple.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.XPath.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\FireSharp.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Core.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.LongRunning.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Protobuf.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Auth.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\RestSharp.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Interactive.Async.dll
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Apis.Core.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.LongRunning.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.LongRunning.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Google.Protobuf.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Auth.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Auth.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\RestSharp.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\bin\Debug\System.Interactive.Async.xml
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.csprojAssemblyReference.cache
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.exe.config
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.Form1.resources
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.Properties.Resources.resources
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.csproj.GenerateResource.cache
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.csproj.CopyComplete
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.exe
+C:\Users\Yashen\Desktop\Device\NodeMCU\obj\Debug\NodeMCU.pdb
